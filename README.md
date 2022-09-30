@@ -7,8 +7,10 @@
 
 - 📫 Find me in telegram by **@sqsuwwt**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
+  Telegram: [@sqsuwwt](https://t.me/sqsuwwt)
+  discord: greendevilll#1509
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
