@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  Telegram: [@sqsuwwt](https://t.me/sqsuwwt) 
+  Telegram: [sqsuwwt](https://t.me/sqsuwwt) 
   discord: greendevilll#1509
 </p>
 
