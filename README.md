@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm greendevilll!</h1>
 <h3 align="center">Programmer and speedruner from Russia</h3>
 
-- 🔭 I’m currently working on [steam farm api](https://github.com/greendevilll/steamfarmAPI)
+- 🔭 I’m currently working on HackWave (no link, its private)
 
 - 🌱 I’m currently learning **to write cheats with ui**
 
