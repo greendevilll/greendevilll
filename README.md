@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm greendevilll!</h1>
-<h3 align="center">Programmer and speedruner from Russia</h3>
+<h3 align="center">Programmer and speedruner from Keask</h3>
 
-- 🔭 I’m currently working on M00nSSH (no link, its private)
+- 🔭 I’m currently working on golang_password_scrap (no link, its private)
 
 - 🌱 I’m currently learning **to write botnet soft**
 
