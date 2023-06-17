@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm greendevilll!</h1>
+<p align="center"><a href="https://discord.com/users/811567865026314271" align="center"><img src="https://lanyard.cnrad.dev/api/811567865026314271"></a></p>
 <h3 align="center">Programmer and speedruner from Keask</h3>
 
 - 🔭 I’m currently working on **python/studio/x76_robot** (no link, its private)
