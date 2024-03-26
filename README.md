@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm greendevilll!</h1>
+<h1 align="center">Hi 👋, I'm hexdev!</h1>
 <h3 align="center">Programmer and speedruner from Keask</h3>
 
-- 🔭 I’m currently working on **python/studio/x76_robot** (no link, its private)
+- 🌱 I’m currently learning **to solve personal problems xd**
 
-- 🌱 I’m currently learning **to write botnet soft**
-
-- 📫 Find me in telegram by **@sqsuwwt**
+- 📫 Find me in telegram by **@hexdev_work**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <p>Telegram: <a href="https://t.me/sqsuwwt">@sqsuwwt</a></p>
+  <p>Telegram: <a href="https://t.me/hexdev_work">@hexdev_work</a></p>
   <p>discord: green_dev</p>
 
 <h3 align="left">Languages and Tools:</h3>
